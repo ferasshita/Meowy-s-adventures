@@ -3,7 +3,7 @@
 
 <!-- Project Description -->
 <p align="center">
-**Meowy’s Adventure** is a fun and interactive platformer game built with MicroStudio. Guide Meowy, a sleepy cat, through a dream world to find the purple grapes and escape back home.
+Meowy’s Adventure is a fun and interactive platformer game built with MicroStudio. Guide Meowy, a sleepy cat, through a dream world to find the purple grapes and escape back home.
 </p>
 
 <!-- Badges (Optional) -->
