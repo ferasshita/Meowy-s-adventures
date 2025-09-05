@@ -51,7 +51,8 @@
 
 ## Screenshots
 
-*(Add screenshots of gameplay and menu here)*
+![Screenshot](https://github.com/ferasshita/Meowy-s-adventures/blob/main/photos/Screenshot%202025-09-05%20211257.png.png?raw=true)
+![Screenshot](https://github.com/ferasshita/Meowy-s-adventures/blob/main/photos/Screenshot%202025-09-05%20211337.png.png?raw=true)
 
 ## Future Improvements
 
